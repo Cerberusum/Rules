@@ -1,0 +1,36 @@
+# Name > Emby
+
+# > QuantumultX 
+
+# CC 
+HOST,cc.coemn.com,direct
+# GuGu
+HOST,main.gugumedia.link,direct
+HOST,pro.gugumedia.link,direct
+HOST,front.gugumedia.link,direct
+# Pornemby
+HOST,pornemby.club,direct
+# 终点站
+HOST,pub1.emby.wtf,direct
+HOST,pub2.emby.wtf,direct
+HOST,pub3.emby.wtf,direct
+# Tank
+HOST,a.tiangou.xyz,direct
+# 不给看
+HOST,c.emby.pro,direct
+HOST,zwei.bgka.me,direct
+HOST,s2.bgka.me,direct
+# 垃圾
+HOST,cf.xmsl.org,direct
+HOST,free.xmsl.org,direct
+# 卷毛鼠
+HOST,cf2.jmsooo.com,direct
+# hxd
+HOST,bili.bili.rip,direct
+HOST,cdn.bili.rip,direct
+HOST,cf.bili.rip,direct
+# Prismis
+HOST,
+# PiliPili
+HOST,emby.pilipiliultra.top,direct
+HOST,emby.pilipiliultra.com,direct

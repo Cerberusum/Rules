@@ -3,23 +3,23 @@
 # > Surge/Loon
 
 # GuGu
-domain-keyword,gugu,direct
+domain-keyword,gugu
 # Pornemby
-domain-keyword,pornemby,direct
+domain-keyword,pornemby
 # 终点站
-domain,pub1.emby.wtf,direct
-domain,pub2.emby.wtf,direct
-domain,pub3.emby.wtf,direct
+domain,pub1.emby.wtf
+domain,pub2.emby.wtf
+domain,pub3.emby.wtf
 # Tank
-domain-keyword,tiangou,direct
+domain-keyword,tiangou
 # 不给看
-domain-keyword,emby,direct
-domain-keyword,bgka,direct
+domain-keyword,emby
+domain-keyword,bgka
 # 垃圾
-domain-keyword,xmsl,direct
+domain-keyword,xmsl
 # 卷毛鼠
-domain-keyword,jmsooo,direct
+domain-keyword,jmsooo
 # hxd
-domain-keyword,bili,direct
+domain-keyword,bili
 # PiliPili
-domain-keyword,pilipiliultra,direct
+domain-keyword,pilipiliultra

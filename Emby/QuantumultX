@@ -5,26 +5,21 @@
 # GuGu
 host-keyword,gugu,direct
 # Pornemby
-HOST,pornemby.club,direct
+host-keyword,pornemby,direct
 # 终点站
 HOST,pub1.emby.wtf,direct
 HOST,pub2.emby.wtf,direct
 HOST,pub3.emby.wtf,direct
 # Tank
-HOST,a.tiangou.xyz,direct
+host-keyword,tiangou,direct
 # 不给看
-HOST,c.emby.pro,direct
-HOST,zwei.bgka.me,direct
-HOST,s2.bgka.me,direct
+host-keyword,emby,direct
+host-keyword,bgka,direct
 # 垃圾
-HOST,cf.xmsl.org,direct
-HOST,free.xmsl.org,direct
+host-keyword,xmsl,direct
 # 卷毛鼠
-HOST,cf2.jmsooo.com,direct
+host-keyword,jmsooo,direct
 # hxd
-HOST,bili.bili.rip,direct
-HOST,cdn.bili.rip,direct
-HOST,cf.bili.rip,direct
+host-keyword,bili,direct
 # PiliPili
-HOST,emby.pilipiliultra.top,direct
-HOST,emby.pilipiliultra.com,direct
+host-keyword,pilipiliultra,direct

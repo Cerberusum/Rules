@@ -2,12 +2,8 @@
 
 # > QuantumultX 
 
-# CC 
-HOST,cc.coemn.com,direct
 # GuGu
-HOST,main.gugumedia.link,direct
-HOST,pro.gugumedia.link,direct
-HOST,front.gugumedia.link,direct
+host-keyword,gugu,direct
 # Pornemby
 HOST,pornemby.club,direct
 # 终点站

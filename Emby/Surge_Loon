@@ -2,33 +2,24 @@
 
 # > Surge/Loon
 
-# CC 
-DOMAIN,cc.coemn.com
 # GuGu
-DOMAIN,main.gugumedia.link
-DOMAIN,pro.gugumedia.link
-DOMAIN,front.gugumedia.link
+domain-keyword,gugu,direct
 # Pornemby
-DOMAIN,pornemby.club
+domain-keyword,pornemby,direct
 # 终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
+domain,pub1.emby.wtf,direct
+domain,pub2.emby.wtf,direct
+domain,pub3.emby.wtf,direct
 # Tank
-DOMAIN,a.tiangou.xyz
+domain-keyword,tiangou,direct
 # 不给看
-DOMAIN,c.emby.pro
-DOMAIN,zwei.bgka.me
-DOMAIN,s2.bgka.me
+domain-keyword,emby,direct
+domain-keyword,bgka,direct
 # 垃圾
-DOMAIN,cf.xmsl.org
-DOMAIN,free.xmsl.org
+domain-keyword,xmsl,direct
 # 卷毛鼠
-DOMAIN,cf2.jmsooo.com
+domain-keyword,jmsooo,direct
 # hxd
-DOMAIN,bili.bili.rip
-DOMAIN,cdn.bili.rip
-DOMAIN,cf.bili.rip
+domain-keyword,bili,direct
 # PiliPili
-DOMAIN,emby.pilipiliultra.top
-DOMAIN,emby.pilipiliultra.com
+domain-keyword,pilipiliultra,direct
